@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+
+#titulo{
+    font-size: 50px;
+    text-align: center;
+    color: purple;
+}
+
+.promocional{
+    color: violet;
+    text-align: center;
+}
+
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.form{
+    color: green;
+    text-align: center;
+    padding:5%;
+}
+
+.form label{
+    color: yellow;
+}
